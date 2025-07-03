@@ -1,0 +1,9 @@
+#docs
+*.docx
+*.txt
+
+#venv
+.venv
+
+#folders
+ignored_folder/
